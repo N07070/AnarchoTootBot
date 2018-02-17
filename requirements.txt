@@ -1,0 +1,12 @@
+certifi==2018.1.18
+chardet==3.0.4
+decorator==4.2.1
+future==0.16.0
+idna==2.6
+Mastodon.py==1.2.2
+python-dateutil==2.6.1
+python-telegram-bot==9.0.0
+pytz==2018.3
+requests==2.18.4
+six==1.11.0
+urllib3==1.22

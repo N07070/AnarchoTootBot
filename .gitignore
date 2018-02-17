@@ -90,6 +90,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+bin/
+include/
 
 # Spyder project settings
 .spyderproject
@@ -104,3 +106,8 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# Runtime files
+nohup.out
+
+# pip files
+pip-selfcheck.json
