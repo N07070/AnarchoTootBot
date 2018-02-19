@@ -9,3 +9,5 @@
 * Document code better
 * Add support for posting to the channel / meta channel
 * Add voting capabilities / direct democracy / etc..
+* Handle timeout
+* Give a look at websockets
